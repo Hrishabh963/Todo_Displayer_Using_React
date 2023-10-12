@@ -40,5 +40,5 @@ The Todo Displayer is a React application that allows you to manage and display 
 4. Start the development server
    ```bash
    npm run dev
-5. [Visit the app](https://todo-displayer-using-react.vercel.app/)
+# [Visit the app](https://todo-displayer-using-react.vercel.app/)
  
